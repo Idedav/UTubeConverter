@@ -1,0 +1,9 @@
+{
+  "outputDirectory": "C:\\UTubeConverterMusic",
+  "audioFormat": "mp3",
+  "audioBitrate": "192K",
+  "skipExisting": true,
+  "maxRetries": 3,
+  "retryDelayMs": 2000,
+  "timeoutMs": 1200000
+}
